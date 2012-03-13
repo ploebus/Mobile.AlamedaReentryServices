@@ -1,6 +1,6 @@
 <div data-role="page" data-title="detail" id="detail">
 <div data-role="header">
-	<h3>Details Page</h3>
+	
 	<a data-rel="back" data-role="button">Back</a>	
 	<a  class="btnMap" data-role="button">Map</a>	
 </div>
